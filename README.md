@@ -1,0 +1,1 @@
+This code was written, compiled and executed using VSC. It gives the user the ability to calculate the par score using the DLS system and find out the NET RUN RATE. It uses the resource table provided by ICC and the formulas according to Duckworth–Lewis–Stern Method. It also uses OVER REDUCTION system to ensure no error.
